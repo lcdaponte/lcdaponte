@@ -3,9 +3,9 @@
 
 - 🔥 Java Developer
 
-- 🔭 I’m currently working on [Deal Technologies](https://www.deal.com.br/)
+- 🔭 I’m currently working on [IBM Brasil](https://www.ibm.com/br-pt)
 
-- 💬 Ask me about **Java, Spring Boot, JavaScript, Node.JS**
+- 💬 Ask me about **Java, Spring Boot**
 
 <br><br>
 
